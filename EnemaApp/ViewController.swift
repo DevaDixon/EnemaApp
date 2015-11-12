@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  EnemaApp
+//  BariumEnemaQuizApp
 //
-//  Created by csit267-13 on 11/11/15.
-//  Copyright © 2015 Team 2. All rights reserved.
+//  Created by csit267-15 on 10/28/15.
+//  Copyright (c) 2015 csit267-15. All rights reserved.
 //
 
 import UIKit
